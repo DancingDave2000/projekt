@@ -1,0 +1,3 @@
+RESOLUTION = [1080, 760]
+BG_COLOR = [195, 195, 195]
+RESULT_PATH = "results.txt"
